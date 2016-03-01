@@ -1,6 +1,6 @@
 James Borrell
 =============
-I am a curious and passionate young junior developer in London, UK.
+I am a curious and passionate young junior developer based in London, UK.
 
 I have moved all over the world picking up different languages & perspectives culminating in me settling back in my home country, England.
 
@@ -19,7 +19,7 @@ Skills
 ======
 #### Web Development
  | Skilled | Adequate
-- | ------- | ------- |
+--- | ------- | ------- |
 Languages | Ruby, Javascript/Jquery, HTML5, SQL | Python, CSS3, SASS
 Databases | Postgres, SQLAlchemy, Data Mapper | Active Record, MySQL
 Frameworks | AngularJS, Ruby on Rails, Sinatra | Flask, NodeJS
@@ -33,7 +33,7 @@ Other | CLI, Github, Vim | Heroku, Agile Workflow
 Education
 =========
 
-###### Makers Academy (October 2015 to February 2016)
+##### **Makers Academy** (October 2015 to February 2016)
 
 - Agile methodologies
 - Pair Programming
@@ -43,7 +43,7 @@ Education
 - Web Development
 - Software Craftsmanship
 
-###### Loughborough University (October 2010 to June 2012)
+##### **Loughborough University** (October 2010 to June 2012)
 
 - Mechanical Engineering
 - Materials and Manufacturing Processes - Engineering Dynamics - Mathematics - Thermodynamics - Mechanics
