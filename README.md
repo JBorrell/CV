@@ -1,22 +1,27 @@
 James Borrell
 =============
-I am a curious and passionate young junior developer based in London, UK.
+I am a curious and passionate junior developer based in London, UK.
 
-I have moved all over the world picking up different languages & perspectives culminating in me settling back in my home country, England.
+I work well in teams drawing from my experiences living in multiple continents abroad and I enjoy opportunities to pair program with developers from different backgrounds.
 
-I'm looking for opportunities that will allow me to build code bases while ever expanding my knowledge as a software developer.
+I'm looking for a creative environment in which I can contribute my skills and knowledge to a driven team in order to accomplish any task while continuing to grow as a software developer.
 
-To find out more: [James Borrell - Linked In](https://uk.linkedin.com/in/james-borrell-2281b1116)
-
-Projects
-=========
-Title | Description | Backend | Frontend
------ | ----------- | ------- | --------
-[JobTrackr](https://github.com/JBorrell/Job_Trackr.git) | Open source database to collect prospective Jobs along with information about the company and its employees. Tracks application data and progress | Python, Flask, Postgres/SQLAlchemy, Flask-Testing(unittest) | AngularJS, HTML5, SCSS, Jasmine, Karma, Protractor
-[WISHD](https://github.com/JBorrell/WISHD.git) | Browser extension to monitor time usage on social media such as Facebook or Twitter. Provides incentives to limit use and ways to increase productivity. | Chrome Extensions, JavaScript | CSS, HTML5, JavaScript
+Find out more: [Linked In](https://uk.linkedin.com/in/james-borrell-2281b1116)
 
 Skills
 ======
+#### Adaptability
+ - Lived in places such as Canada, Indonesia, Argentina, France & Scotland
+ - Average of 3 years in each, understanding different cultures while learning the language
+ - Becoming accustomed to doing things in different ways
+ - Acknowledging the value another perspective brings solving problems
+
+#### Teamwork
+ - Broad perspective allows me to communicate effectively with all team members
+ - Positive outlook keeps spirits/motivation high throughout projects
+ - 2 Years Mechanical Engineering Team Projects
+ - Captain & MVP of school rugby team, Rugby Canada Nationals - Team Alberta
+
 #### Web Development
  | Skilled | Adequate
 --- | ------- | ------- |
@@ -27,8 +32,16 @@ Testing | Rspec, Karma, Jasmine, Capybara, Protractor | Python unittest, Cucumbe
 Other | CLI, Github, Vim | Heroku, Agile Workflow
 
 #### Languages
+ - English
  - Spanish
  - French
+
+ Projects
+ =========
+ Title | Description | Backend | Frontend
+ ----- | ----------- | ------- | --------
+ [JobTrackr](https://github.com/JBorrell/Job_Trackr.git) | Open source database to collect prospective Jobs along with information about the company and its employees. Tracks application data and progress | Python, Flask, Postgres/SQLAlchemy, Flask-Testing(unittest) | AngularJS, HTML5, SCSS, Jasmine, Karma, Protractor
+ [WISHD](https://github.com/JBorrell/WISHD.git) | Browser extension to monitor time usage on social media such as Facebook or Twitter. Provides incentives to limit use and ways to increase productivity. | Chrome Extensions, JavaScript | CSS, HTML5, JavaScript
 
 Education
 =========
@@ -54,39 +67,17 @@ Experience
 *International background*
 
 **Paris, France:** 1992 - 1997
-- Montessori School
-- Pre-School
-
 **Aberdeen, Scotland:** 1997-2000
-- Primary School
-
 **Buenos Aires, Argentina:** 2000 - 2003
-- Secondary School
-- Football, Swimming, Track & Field
-
 **Jakarta, Indonesia:** 2003 - 2006
-- Pre-GSCE
-- Cricket, Rugby, Football, Swimming, Baseball
-- Orangutan Wildlife Preserve Program
-
 **Calgary, Canada:** 2006 - 2010
-- High-School
-- Alberta Diploma
-- IB
-- Provincial Rugby([Rugby Alberta](http://www.rugbyalberta.com/))
-- Outdoor Education
-
 **Paris, France:** 2010 - 2012
-- Attended Loughborough University, UK
-
-**Bristol/London:** 2012 - Present
-- Based in Toronto, Canada(October 2014 - May 2015)
-- Makers Academy
+**Bristol, UK:** 2012 - 2013
+**Toronto, Canada:** 2013 - 2014
+**London, UK:** 2014 - Present
 
 Other
 ======
-- Broad perspective, very adaptable
-- Easy to get along with, work well in teams
 - Avalanche Safety Certified
 - Expert Skier
 - Level 2 Sailing Certification
