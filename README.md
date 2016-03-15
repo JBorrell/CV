@@ -32,6 +32,7 @@ Testing | Rspec, Karma, Jasmine, Capybara, Protractor | Python unittest, Cucumbe
 Other | CLI, Github, Vim | Heroku, Agile Workflow
 
 #### Languages
+
  - English
  - Spanish
  - French
