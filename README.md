@@ -33,7 +33,6 @@ Other | CLI, Github, Vim | Heroku, Agile Workflow
 
 #### Languages
 
- - English
  - Spanish
  - French
 
