@@ -6,7 +6,7 @@ I work well in teams drawing from my experiences living in multiple continents a
 
 I'm looking for a creative environment in which I can contribute my skills and knowledge to a driven team in order to accomplish any task while continuing to grow as a software developer.
 
-Find out more: [Linked In](https://uk.linkedin.com/in/james-borrell-2281b1116)
+Find out more: [Linkedin](https://uk.linkedin.com/in/james-borrell-2281b1116)
 
 Skills
 ======
@@ -62,18 +62,25 @@ Education
 - Materials and Manufacturing Processes - Engineering Dynamics - Mathematics - Thermodynamics - Mechanics
 - Rugby - MMA - Trampoline
 
-Experience
+Background
 ==========
-*International background*
 
 **Paris, France:** 1992 - 1997
+
 **Aberdeen, Scotland:** 1997-2000
+
 **Buenos Aires, Argentina:** 2000 - 2003
+
 **Jakarta, Indonesia:** 2003 - 2006
+
 **Calgary, Canada:** 2006 - 2010
+
 **Paris, France:** 2010 - 2012
+
 **Bristol, UK:** 2012 - 2013
+
 **Toronto, Canada:** 2013 - 2014
+
 **London, UK:** 2014 - Present
 
 Other
