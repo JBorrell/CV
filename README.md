@@ -50,8 +50,7 @@ Other | CLI, Github, Vim | Heroku, Agile Workflow
  ----- | ----------- | ------- | --------
  [JobTrackr](https://github.com/JBorrell/Job_Trackr.git) | Open source database to collect prospective Jobs along with information about the company and its employees. Tracks application data and progress. | Python, Flask, Postgres/SQLAlchemy, Flask-Testing(unittest) | AngularJS, HTML5, SCSS, Jasmine, Karma, Protractor
  [WISHD](https://github.com/JBorrell/WISHD.git) | Browser extension to monitor time usage on social media such as Facebook or Twitter. Provides incentives to limit use and ways to increase productivity. | Chrome Extensions, JavaScript | CSS, HTML5, JavaScript
- [Chatter](https://github.com/JBorrell/Chatter) | Twitter replication app, allowing users to sign up to the service, post
- thoughts & actions to be seen by other users. | Ruby & Ruby on Rails, Datamapper, Datamapper Postgres Adapter, Rake, BCrypt Ruby | Sinatra, Sinatra Flash, Capybara, Rspec, Database Cleaner |
+ [Chatter](https://github.com/JBorrell/Chatter) | Twitter replication app, allowing users to sign up to the service, post thoughts & actions to be seen by other users. | Ruby & Ruby on Rails, Datamapper, Datamapper Postgres Adapter, Rake, BCrypt Ruby | Sinatra, Sinatra Flash, Capybara, Rspec, Database Cleaner |
  [BBC iPlayer](https://github.com/JBorrell/BBC_Tech_Test.git) | A simple single page application using the BBC iPlayer Api to list programmes available to watch, alphabetical & paginated search results. | iPlayer Api, AngularJS | HTML5, CSS, Karma, Protractor, Jasmine |
  [Bowlarama](https://github.com/JBorrell/Bowling_Challenge) | A Javascript application to simulate an interactive bowling game allowing users to save their score & compete with friends. | JavaScript | Jquery, Jasmine |
 
